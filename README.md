@@ -20,12 +20,24 @@ Hey there! I'm **Dexterek33**, a passionate web developer and UI/UX designer wit
 ## 💻 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <a href="https://www.lua.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/lua/2C2D72" alt="Lua" width="60" height="60" style="margin: 5px; border-radius: 10px; background-color: #ffffff; padding: 5px;">
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="60" height="60" style="margin: 5px; border-radius: 10px; background-color: #ffffff; padding: 5px;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="60" height="60" style="margin: 5px; border-radius: 10px; background-color: #ffffff; padding: 5px;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="60" height="60" style="margin: 5px; border-radius: 10px; background-color: #ffffff; padding: 5px;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="60" height="60" style="margin: 5px; border-radius: 10px; background-color: #000000; padding: 5px;">
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="60" height="60" style="margin: 5px; border-radius: 10px; background-color: #ffffff; padding: 5px;">
+  </a>
 </p>
 
 <p align="center">
